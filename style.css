@@ -1,0 +1,196 @@
+html{
+    text-align: center;
+    background-image: url(./Assets/Entry\ page.jpg);
+    background-repeat: repeat;
+    background-size: 100%;
+}
+#Home{
+    position: absolute;
+    left: 0px;
+    top: 120px;
+    font-size: 1em;
+    display: inline block;
+    font-size: 2em;
+    color: burlywood;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    color: #111;
+    background-color: aliceblue;
+    text-decoration: none;
+}
+#Contact{
+    position: absolute;
+    top: 120px;
+    Left: 1300px;
+    font-size: 1em;
+    display: inline block;
+    font-size: 2em;
+    color: burlywood;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    color: #111;
+    background-color: aliceblue;
+    text-decoration: none;
+}
+video{
+    width: 70%;
+    height: 400px;
+}
+h1{
+    font-size: 3em;
+    text-transform: uppercase;
+}
+#Explore{
+    position: relative;
+    top: 100px;
+    display: inline block;
+    font-size: 2em;
+    color: burlywood;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    color: #111;
+    background-color: aliceblue;
+    text-decoration: none;
+}  
+#advert{
+    width: 150px;
+}
+#dealspage{
+    background-image: url(./Assets/Deals\ background.jpg); 
+    background-repeat: repeat;
+}
+
+.Book{
+    display: inline-block;
+    background-color: blanchedalmond;
+    padding: 0px 4px;
+    margin: 0px 0px;
+    color: brown;
+    text-decoration: none;
+}
+
+#browse{
+    font-size: 2em;
+    color: burlywood;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    color: #111;
+    background-color: aliceblue;
+    text-decoration: none; 
+}
+
+#content1{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+#content2{
+    position: absolute;
+    top: 350px;
+    left: 50px;
+}
+
+#content3{
+    position: absolute;
+    top: 350px;
+    left: 1130px;
+}
+
+#content4{
+    position: absolute;
+    top: 100px;
+    left: 1130px;
+}
+
+#kenya{
+        background-image: url(./Assets/Kenya\ background.jpg); 
+        background-repeat: repeat;
+        color: antiquewhite;
+}
+
+#UAE{
+    background-image: url(./Assets/Dubai\ background.jpg); 
+    background-repeat: repeat;
+}
+
+#UK{
+    background-image: url(./Assets/UK\ background.jpg); 
+    background-repeat: repeat;
+}
+
+#Tanzania{
+    background-image: url(./Assets/Tanzania\ 2.jpg); 
+    background-repeat: repeat; 
+}
+#spain{
+    background-image: url(./Assets/Spain\ background.jpg); 
+    background-repeat: repeat; 
+}
+#china{
+    background-image: url(./Assets/china\ background.jpg); 
+    background-repeat: repeat; 
+}
+
+#Confirm{
+    display: inline-block;
+    background-color: blanchedalmond;
+    padding: 0px 4px;
+    margin: 0px 0px;
+    color: brown;
+    text-decoration: none;
+}  
+
+#Booking{
+    text-align: left;
+}
+#pay{
+    text-transform: uppercase;
+    font-size: 2em;
+}
+.backvideo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0,0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 2;
+}
+@media (min-aspect-ratio: 16/9){
+    .backvideo{
+        width: 100%;
+        height: auto;
+    }
+}
+.paypage{
+    position: absolute;
+    top: 120px;
+    left: 1000px;
+}  
+.bookpage{
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+#Confirm{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+#egypt{
+    background-image: url(./Assets/Egypt\ city.jpg); 
+    background-repeat: repeat;
+    opacity: 400;
+}
+#Singapore{
+    background-image: url(./Assets/Singapore\ background.jpg); 
+    background-repeat: repeat;
+    opacity: 400;
+}
+#france{
+    background-image: url(./Assets/France\ background.jpg); 
+    background-repeat: repeat;
+    opacity: 400;
+}
